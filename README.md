@@ -2,10 +2,16 @@
 
 The goal of this project is to create a machine learning model that can successfully predict the personality of a subject based off of a single conversation with them.
 
-##### Note: 
-This project is still in progress, so the results stated in this read me may not be up to the current date. This is the state of the project as of May 11th, 2024
+> **Note: This project is still in progress**, so the results stated in this read me may not be up to the current date. This is the state of the project as of May 11th, 2024
+
+# Contents
+
+---
 
 ### Team
+
+---
+
 This project was originally proposed by Josh Oltmanns, and has grown to incorporate work from a team of students at Xavier University, as well as myself and Dr. Tue Vu on behalf of the Data Center at Southern Methodist University. The work you see here is the adaptation and improvement on code from Jocelyn Brickman at Xavier University, done by myself and Dr. Tue Vu.
 
 ### Primary Use Case
