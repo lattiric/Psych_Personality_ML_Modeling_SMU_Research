@@ -2,7 +2,7 @@
 
 The goal of this project is to create a machine learning model that can successfully predict the personality of a subject based off of a single conversation with them.
 
-> **Note: This project is still in progress**, so the results stated in this read me may not be up to the current date. This is the state of the project as of May 11th, 2024
+> **Note: This project is still in progress**, so the results stated in this README file may not be up to the current date. This is the state of the project as of May 11th, 2024
 
 # Contents
 
