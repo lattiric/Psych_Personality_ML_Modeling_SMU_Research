@@ -6,7 +6,7 @@ The goal of this project is to create a machine learning model that can successf
 
 # Contents
 
-### Team
+### Team/Contributers
 ---
 
 This project was originally proposed by Josh Oltmanns, and has grown to incorporate work from a team of students at Xavier University, as well as myself and Dr. Tue Vu on behalf of the Data Center at Southern Methodist University. The work you see here is the adaptation and improvement on code from Jocelyn Brickman at Xavier University, done by myself and Dr. Tue Vu.
@@ -24,15 +24,15 @@ The current model was trained on a dataset of 1000+ interview responses or real 
 ### Training Process
 ---
 
-TODO
+All of the models mentioned above were trained using the NVIDIA superpod and a collection of batch scripts that used to queue up the training of the each model individually, one at a time. This was done to prevent my project from taking up too many reasources on the superpod at a given time, effectively preventing other students on campus from utilizing it. As a result, the training of the 35 models for their respective personality traits takes about 5 hours for a given set of hyperparameters.
 
 ### Current Results
 ---
 
 These are the best current overall results that have been returned from the array of variations of models that have been trained for the task of personality trait identification. We got better results for specific sections of personality traits when different hyperparameters were used, but these were the best overall results.
 
-Current output:
-# ![](https://github.com/lattiric/Psych_Personality_ML_Modeling_SMU_Research/blob/main/results_image.png)
+#### Current Raw Results:
+# ![data](https://github.com/lattiric/Psych_Personality_ML_Modeling_SMU_Research/blob/main/results_image.png)
 
 ### Bottlenecks
 ---
