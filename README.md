@@ -23,12 +23,23 @@ The current model was trained on a dataset of 1000+ interview responses or real 
 
 ### Training Process
 ---
+
 TODO
 
 ### Current Results
 ---
-TODO
+
+These are the best current overall results that have been returned from the array of variations of models that have been trained for the task of personality trait identification. We got better results for specific sections of personality traits when different hyperparameters were used, but these were the best overall results.
+
+Current output:
+![alt text](file:///Users/ricklattin/Documents/Personal_Coding_Projects/STAR_Psych_AI_Project%20/Psych_AI_Git_Repository/Psych_Personality_ML_Modeling_SMU_Research/Screenshot%202024-08-26%20at%2011.46.40%E2%80%AFPM.png)
 
 ### Bottlenecks
 ---
-TODO
+
+Bottlenecks that we have dealt with so far:
+- Large variation in the data we are using
+- Scarcity of dataset being used
+- Nature of data itself
+- psychology field standards(continuous evaluation metric)
+- limited time using superpod
